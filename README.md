@@ -1,0 +1,2 @@
+# confg
+Common configurations
